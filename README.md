@@ -1,4 +1,4 @@
-<img src="/assets/images/sketchwind-logo.png" width="300px" />
+<img src="/assets/images/sketchwind-logo.png" width="200px" />
 
 # Sketchwind
 
