@@ -1,0 +1,45 @@
+@colors: {
+    Brand:               #db0482;
+    Primary:             #8925f5;
+    Secondary:           #923F7B;
+    Black:               #17062b;
+    White:               white;
+    Danger:              #d83a3a;
+    Warning:             #f7a436;
+    Success:             #0ec988;
+    Highlight:           #fff79c;
+}
+
+// Fonts
+
+@font-size: {
+    h1:        48px;
+    h2:        36px;
+    h3:        24px;
+    h4:        16px;
+    normal:    14px;
+    small:     12px;
+    tiny:      10px;
+}
+
+// Alignment options
+
+@text-align: left, right, center;
+
+// Text styles generation
+
+each(@font-size, .(@vs, @ks, @is) {
+    .@{ks}Size {
+        each(@text-align, .(@va, @ka, @ia) {
+            .@{va}Aligned {
+                each(@colors, {
+                    .@{key} {
+                        color: @value;
+                        font-size: @vs;
+                        text-align: @va;
+                    }
+                });
+            }
+        });
+    }
+});
