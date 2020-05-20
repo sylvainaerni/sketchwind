@@ -1,3 +1,5 @@
+<img src="/assets/images/sketchwind-logo.png" width="300px" />
+
 # Sketchwind
 
 ## A design system for Sketch, based on Tailwind CSS and Tailwind UI philosophy
