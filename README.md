@@ -3,7 +3,7 @@
 # Sketchwind
 
 Sketchwind is an open source Sketch template, based on Tailwind philosophy. It contains the basics stones for building a design system, in a coherent and comprehensive way.  
-Most of the very simple bricks of a design system are isolated and regrouped here, and can be combined following your needs. 
+Most of the very simple bricks of a design system are isolated and regrouped, and can be combined to fit your needs. 
 
 The default values defined in the template are based on the default values of Tailwind. You can modify them or define new ones, at any time during your design process. 
 
