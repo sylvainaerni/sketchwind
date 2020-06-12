@@ -27,4 +27,5 @@ If you or your dev colleagues will implement the designs with the help of Tailwi
 - Font Families
 - Font sizes and line heights
 - Strokes for svg icons
+
 Go to the [Sketchwind exporter](https://github.com/sylvainaerni/sketchwind-exporter) repository for more informations.
