@@ -5,10 +5,7 @@
 Sketchwind is an open source Sketch template, based on Tailwind philosophy. It contains the basics stones for building a design system, in a coherent and comprehensive way.  
 Most of the very simple bricks of a design system are isolated and regrouped here, and can be combined following your needs. 
 
-The default values defined in the template are based on the default values of Tailwind. You can modify them or define new ones, and export them as a Tailwind config at any time during your design process. 
-
-## Sketchwind exporter
-Sketchwind exporter is a Sketch plugin you will found in another repository. I will let you exporta a configuration file right from your Sketch file. Go to the [Sketchwind exporter](https://github.com/sylvainaerni/sketchwind-exporter) repository for more informations
+The default values defined in the template are based on the default values of Tailwind. You can modify them or define new ones, at any time during your design process. 
 
 ## How to start with Sketchwind
 
@@ -19,7 +16,8 @@ Sketchwind exporter is a Sketch plugin you will found in another repository. I w
 
 
 ## Export to Tailwind 
-If you or your dev colleagues will implement the designs with the help of Tailwind CSS, you can install the «Sketchwind exporter» plugin. It will help you generate a Tailwind configuration file in a single click. You can then give this file to your frontend developer, it will contain the following definitions: - Colors
+If you or your dev colleagues will implement the designs with the help of Tailwind CSS, you can install the Sketchwind exporter plugin. It will help you generate a Tailwind configuration file in a single click. You can then give this file to your frontend developer, it will contain the following definitions: 
+- Colors
 - Border radiuses
 - Border widths
 - Box shadows
@@ -29,3 +27,4 @@ If you or your dev colleagues will implement the designs with the help of Tailwi
 - Font Families
 - Font sizes and line heights
 - Strokes for svg icons
+Go to the [Sketchwind exporter](https://github.com/sylvainaerni/sketchwind-exporter) repository for more informations.
