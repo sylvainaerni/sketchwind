@@ -9,7 +9,7 @@ The default values defined in the template are based on the default values of Ta
 
 ## How to start with Sketchwind
 
-1. Download the Sketchwind .zip file
+1. Download the [Sketchwind .zip](https://github.com/sylvainaerni/sketchwind/archive/master.zip) file
 2. Install Inter fonts family (go to `assets/fonts`)
 3. Open the `Sketchwind Design system.sketch` file 
 4. You will find exhaustive documentation in the file itself.
